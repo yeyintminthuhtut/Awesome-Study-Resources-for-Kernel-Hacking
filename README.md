@@ -10,11 +10,11 @@ Kernel Hacking study materials collection
 
 [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)
 
-[The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+[The Linux Kernel Module Programming Guide] (http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
 [The Linux Kernel](http://www.tldp.org/LDP/tlk/tlk.html)
 
-[Linux Kernel Exploitation](https://jon.oberheide.org/files/source10-linuxkernel-jonoberheide.pdf}
+[Linux Kernel Exploitation](https://jon.oberheide.org/files/source10-linuxkernel-jonoberheide.pdf)
 
 [[Tool/PoC] IOCTLbf - Scanning IOCTLs & Fuzzing Windows kernel drivers](http://poppopret.blogspot.sg/2012/03/toolpoc-ioctlbf-scanning-ioctls-fuzzing.html)
 
