@@ -14,6 +14,8 @@ Kernel Hacking study materials collection
 
 [The Linux Kernel](http://www.tldp.org/LDP/tlk/tlk.html)
 
+[Linux Kernel Exploitation](https://jon.oberheide.org/files/source10-linuxkernel-jonoberheide.pdf}
+
 [[Tool/PoC] IOCTLbf - Scanning IOCTLs & Fuzzing Windows kernel drivers](http://poppopret.blogspot.sg/2012/03/toolpoc-ioctlbf-scanning-ioctls-fuzzing.html)
 
 [Windows Kernel Exploitation Basics - Part 1 : Introduction to DVWDDriver](http://poppopret.blogspot.sg/2011/06/windows-kernel-exploitation-part-1.html)
